@@ -2,7 +2,7 @@
 
 This project explores and analyzes sales data from a coffee shop using Microsoft Excel. The analysis provides valuable insights into sales trends, customer behavior, and product performance to support business decision-making.
 
-![Coffee Shop Dashboard](./images/Page1.png)
+![Coffee Shop Dashboard](./assets/Page1.png)
 
 
 ---
