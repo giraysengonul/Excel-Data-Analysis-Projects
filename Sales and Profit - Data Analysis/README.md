@@ -5,7 +5,7 @@ This Power BI project analyzes sales and profit data across different categories
 ---
 
 ## 📷 Dashboard Preview  
-![Sales and Profit Dashboard](assets/Page1.png)  
+![Sales and Profit Dashboard](assets/Page0.png)  
 
 ---
 
