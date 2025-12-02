@@ -1,0 +1,31 @@
+# System files to ignore
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Visual Studio Code settings
+.vscode/
+
+# Temporary and backup files
+*.swp
+*.tmp
+*.bak
+*.log
+
+# Archives and compressed files
+*.zip
+*.tar.gz
+*.rar
+
+# IDE-specific folders
+.idea/
+
+# Keep Excel files – do NOT ignore them!
+# No *.xls or *.xlsx exclusions here
