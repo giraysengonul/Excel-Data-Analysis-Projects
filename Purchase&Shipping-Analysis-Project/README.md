@@ -36,7 +36,7 @@ The Excel dashboard includes:
 ## Dashboard Preview
 Below is a preview from the Excel dashboard:
 
-![Dashboard Screenshot](assets/Page1.png)
+![Dashboard Screenshot](assets/Page0.png)
 
 ## Tools Used
 - Microsoft Excel  
